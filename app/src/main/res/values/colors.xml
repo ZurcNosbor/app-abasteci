@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tema Claro -->
+    <color name="md_theme_light_primary">#FFD32F2F</color> <!-- Vermelho (Botões e Destaques) -->
+    <color name="md_theme_light_onPrimary">#FFFFFFFF</color> <!-- Texto dos botões vermelhos -->
+    <color name="md_theme_light_primaryContainer">#FFFFCDD2</color> <!-- Fundo do Dashboard (Vermelho bem claro) -->
+    <color name="md_theme_light_onPrimaryContainer">#FFB71C1C</color> <!-- Texto do Dashboard -->
+    <color name="md_theme_light_secondary">#FF757575</color> <!-- Cinza -->
+    <color name="md_theme_light_tertiary">#FFFFA000</color> <!-- Amarelo/Laranja -->
+    <color name="md_theme_light_background">#FFF5F5F5</color> <!-- Fundo da tela -->
+    <color name="md_theme_light_surface">#FFFFFFFF</color> <!-- Fundo dos cartões -->
+    <color name="md_theme_light_onSurface">#FF212121</color> <!-- Texto principal -->
+
+    <!-- Tema Escuro -->
+    <color name="md_theme_dark_primary">#FFF44336</color>
+    <color name="md_theme_dark_onPrimary">#FFFFFFFF</color>
+    <color name="md_theme_dark_primaryContainer">#FFB71C1C</color>
+    <color name="md_theme_dark_onPrimaryContainer">#FFFFCDD2</color>
+    <color name="md_theme_dark_secondary">#FFBDBDBD</color>
+    <color name="md_theme_dark_tertiary">#FFFFCA28</color>
+    <color name="md_theme_dark_background">#FF121212</color>
+    <color name="md_theme_dark_surface">#FF1E1E1E</color>
+    <color name="md_theme_dark_onSurface">#FFFFFFFF</color>
+</resources>
